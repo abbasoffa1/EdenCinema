@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\bin\Debug\EdenCinema.exe.config
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\bin\Debug\EdenCinema.exe
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\bin\Debug\EdenCinema.pdb
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.CinemaCedvelleri.resources
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.Form1.resources
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.Properties.Resources.resources
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.csproj.GenerateResource.Cache
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.exe
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.pdb
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.overdrive.resources
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.BabyDriver.resources
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.FastFurious.resources
+C:\Users\pc\source\repos\EdenCinema\EdenCinema\obj\Debug\EdenCinema.NowYouSeeMe2.resources
